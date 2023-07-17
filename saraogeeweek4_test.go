@@ -67,6 +67,7 @@ func TestGoDescribe(t *testing.T) {
 	pop_descrip := GoDescribe(pops, true, &percentiles)
 	hh_descrip := GoDescribe(hhs, true, &percentiles)
 
+	//Checks values with Python values rounded to 2 decimal places from housesOutputPy.txt
 	if values_descrip.Min != 14999.00 || values_descrip.Max != 500001.00 || roundFloat(values_descrip.Mean, 2) != 206855.82 {
 		t.Error("Value calculation error")
 	}

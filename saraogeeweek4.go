@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/csv"
+	"flag"
 	"fmt"
 	"os"
 	"strconv"
@@ -9,11 +10,16 @@ import (
 	"github.com/montanaflynn/stats"
 )
 
+// CLI flags handle different names for input and output files
+var input = flag.String("input", "housesInput.csv", "input name for csv")
+var output = flag.String("output", "housesOutputGo.txt", "output name for txt")
+
 func main() {
+	flag.Parse()
 	//Runs 100 times
-	for j := 0; j < 1; j++ {
+	for j := 0; j < 100; j++ {
 		//Reads in each line of input as an array of strings
-		file, _ := os.Open("housesInput.csv")
+		file, _ := os.Open(*input)
 		reader := csv.NewReader(file)
 		records, _ := reader.ReadAll()
 		defer file.Close() //It is idiomatic to close files after opening
@@ -59,7 +65,7 @@ func main() {
 		hhs = hhs[1:]
 
 		//Prints descriptions in a txt file with stats.Describe function
-		f, _ := os.Create("housesOutputGo.txt")
+		f, _ := os.Create(*output)
 
 		values_descrip := GoDescribe(values, false, &percentiles)
 		f.WriteString("values")
@@ -103,9 +109,16 @@ func main() {
 		f.WriteString(Stringed(hh_descrip))
 		f.WriteString("\n")
 	}
+
 }
 
-// Other imported code from stats package
+// Function created for testing framework to ensure consistent results with Python/R
+func GoDescribe(a stats.Float64Data, b bool, c *[]float64) (d *stats.Description) {
+	f, _ := stats.Describe(a, b, c)
+	return f
+}
+
+// Other imported code from stats package for modifying output of String function
 type Description struct { //type imported from stats package for modified Stringed function
 	Count                  int
 	Mean                   float64
@@ -131,10 +144,4 @@ func Stringed(d *stats.Description) string { //modified to remove NaN fields fro
 		str += fmt.Sprintf("%.2f%%\t%.*f\n", percentile.Percentile, 2, percentile.Value)
 	}
 	return str
-}
-
-// Function created for testing framework to ensure consistent results with Python/R
-func GoDescribe(a stats.Float64Data, b bool, c *[]float64) (d *stats.Description) {
-	f, _ := stats.Describe(a, b, c)
-	return f
 }
