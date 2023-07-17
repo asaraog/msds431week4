@@ -1,0 +1,1400 @@
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
+     value            income             age            rooms      
+ Min.   : 14999   Min.   : 0.4999   Min.   : 1.00   Min.   :    2  
+ 1st Qu.:119600   1st Qu.: 2.5634   1st Qu.:18.00   1st Qu.: 1448  
+ Median :179700   Median : 3.5348   Median :29.00   Median : 2127  
+ Mean   :206856   Mean   : 3.8707   Mean   :28.64   Mean   : 2636  
+ 3rd Qu.:264725   3rd Qu.: 4.7432   3rd Qu.:37.00   3rd Qu.: 3148  
+ Max.   :500001   Max.   :15.0001   Max.   :52.00   Max.   :39320  
+    bedrooms           pop              hh        
+ Min.   :   1.0   Min.   :    3   Min.   :   1.0  
+ 1st Qu.: 295.0   1st Qu.:  787   1st Qu.: 280.0  
+ Median : 435.0   Median : 1166   Median : 409.0  
+ Mean   : 537.9   Mean   : 1425   Mean   : 499.5  
+ 3rd Qu.: 647.0   3rd Qu.: 1725   3rd Qu.: 605.0  
+ Max.   :6445.0   Max.   :35682   Max.   :6082.0  
