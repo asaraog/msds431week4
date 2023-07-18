@@ -2,7 +2,9 @@
 
 ### Project Summary
 
-Go will be help power our backend web and database servers and distributed service offerings on the cloud. However, data science operations remain a key concern as Python/R remain popular. This project aims to implement basic summary statistics of the [California Housing Prices (Miller 2015)](./housesInput.csv) in Go using the [stats package](https://github.com/montanaflynn/stats). The Go implementation is benchmarked for runtime using 'time' before commands in the command line to compare with [Python's](./runHouses.py) pandas.describe() and [R's](./runHouses.R) summary functions, running each operation 100 times. Python was significantly slower compared to R and Go implementations with runtimes of 1.36s, 0.04s, 0.173s for Python, R and Go. While R was less verbose and a bit faster than Go, Go's testing package ensured summary statistics as Python for each of the seven variables (value, income, age, rooms, bedrooms, pop, hh) during development. The Data Science team sees test-driven development as an asset in Go and with equivalent statistical results, our concerns about switching to Go are alleviated. We strongly recommend using Go as the primary programming language accross the company.
+Go will be help power our backend web and database servers and distributed service offerings on the cloud. However, data science operations remain a key concern as Python/R remain popular. This project aims to implement basic summary statistics of the [California Housing Prices (Miller 2015)](./housesInput.csv) in Go using the [stats package](https://github.com/montanaflynn/stats). The Go implementation is benchmarked for runtime using 'time' before commands in the command line to compare with [Python's](./runHouses.py) pandas.describe() and [R's](./runHouses.R) summary functions, running each operation 100 times. The results are subsequently written to a .txt file. The filenames can be specified for the Go application on the command line thanks to the [flag package] (https://pkg.go.dev/flag).
+
+Python was significantly faster compared to R and Go implementations with 'real' runtimes of 2.27s, 4.10s, 5.02s for Python, R and Go respectively. While Python and R were less verbose and a bit faster than Go, Go's testing package ensured summary statistics as Python for each of the seven variables (value, income, age, rooms, bedrooms, pop, hh) during development. The Data Science team sees test-driven development as an asset in Go and with equivalent statistical results, our concerns about switching to Go are alleviated. We strongly recommend using Go as the primary programming language accross the company.
 
 ### Files
 
@@ -14,6 +16,21 @@ Unit test for GoDescribe function. This testing routine ensures equivalence with
 
 *Week4* \
 Unix executable file of cross-compiled Go code for Mac/Windows. The -input and -output flag specifies the names of the input .csv and output .txt files.
+
+### Installation
+
+Download or git clone this project onto local machine into folder on local machine.
+
+```
+git clone https://github.com/asaraog/msds431week4.git
+cd msds431week4
+time ./Week4
+time python3 runHouses.py 
+time  Rscript runHouses.R
+
+./Week4 -input housesInput.csv -output housesOutputGo.txt
+```
+The Go application can be run with user-specified filenames. It is benchmarked using the same command-line 'time' before running each programming language (Go, Python and R)
 
 ### References
 
