@@ -19,7 +19,12 @@ func main() {
 	//Runs 100 times
 	for j := 0; j < 100; j++ {
 		//Reads in each line of input as an array of strings
-		file, _ := os.Open(*input)
+		file, err1 := os.Open(*input)
+		//Handles errors in case file name is wrong from user
+		if err1 != nil {
+			fmt.Printf("Failed to open file:%s\n", err1)
+			return
+		}
 		reader := csv.NewReader(file)
 		records, _ := reader.ReadAll()
 		defer file.Close() //It is idiomatic to close files after opening
@@ -65,7 +70,11 @@ func main() {
 		hhs = hhs[1:]
 
 		//Prints descriptions in a txt file with stats.Describe function
-		f, _ := os.Create(*output)
+		f, err2 := os.Create(*output)
+		if err2 != nil {
+			fmt.Printf("Failed to save file: %s\n", err2)
+			return
+		}
 
 		values_descrip := GoDescribe(values, false, &percentiles)
 		f.WriteString("values")
